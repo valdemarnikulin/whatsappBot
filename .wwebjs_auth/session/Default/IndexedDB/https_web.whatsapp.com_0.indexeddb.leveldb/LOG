@@ -1,0 +1,21 @@
+2022/09/29-10:01:06.261 15e07 Creating DB /Users/macbook/Desktop/Practic/bot-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/09/29-10:01:06.318 15e07 Reusing MANIFEST /Users/macbook/Desktop/Practic/bot-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/29-10:09:24.864 19603 Level-0 table #5: started
+2022/09/29-10:09:24.910 19603 Level-0 table #5: 1171186 bytes OK
+2022/09/29-10:09:24.947 19603 Delete type=0 #3
+2022/09/29-10:09:26.372 15e07 Level-0 table #7: started
+2022/09/29-10:09:26.476 15e07 Level-0 table #7: 1116197 bytes OK
+2022/09/29-10:09:26.519 15e07 Delete type=0 #4
+2022/09/29-10:09:26.767 15e07 Compacting 1@1 + 1@2 files
+2022/09/29-10:09:26.926 15e07 Generated table #8@1: 20791 keys, 1454230 bytes
+2022/09/29-10:09:26.927 15e07 Compacted 1@1 + 1@2 files => 1454230 bytes
+2022/09/29-10:09:26.976 15e07 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/29-10:09:41.964 9303 Level-0 table #10: started
+2022/09/29-10:09:42.049 9303 Level-0 table #10: 1094885 bytes OK
+2022/09/29-10:09:42.084 9303 Delete type=0 #6
+2022/09/29-10:09:42.084 9303 Delete type=2 #7
+2022/09/29-10:09:42.084 9303 Delete type=2 #5
+2022/09/29-10:09:42.384 15e07 Compacting 1@1 + 1@2 files
+2022/09/29-10:09:42.538 15e07 Generated table #11@1: 28929 keys, 1844603 bytes
+2022/09/29-10:09:42.538 15e07 Compacted 1@1 + 1@2 files => 1844603 bytes
+2022/09/29-10:09:42.591 15e07 compacted to: files[ 0 0 1 0 0 0 0 ]
