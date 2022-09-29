@@ -9,7 +9,7 @@ let date;
 
 client.on("message", async (msg) => {
   const chat = await msg.getChat();
-  if (chat.id.user === "some telephone number") {
+  if (chat.id.user === "77071587041") {
     let arrMsg = msg.body.split(" ");
     if (arrMsg.includes("newDate") && arrMsg.length == 6) {
       date = arrMsg.slice(1).join(" ");
