@@ -1,2 +1,3 @@
-2022/09/29-10:01:04.483 b003 Creating DB /Users/macbook/Desktop/Practic/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage since it was missing.
-2022/09/29-10:01:04.538 b003 Reusing MANIFEST /Users/macbook/Desktop/Practic/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001
+2022/09/29-15:15:54.109 fa07 Reusing MANIFEST /Users/macbook/Desktop/Practic/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001
+2022/09/29-15:15:54.110 fa07 Recovering log #3
+2022/09/29-15:15:54.110 fa07 Reusing old log /Users/macbook/Desktop/Practic/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage/000003.log 
